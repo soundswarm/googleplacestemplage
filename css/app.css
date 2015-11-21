@@ -3,6 +3,11 @@ html, body {
   margin: 0;
   padding: 0;
 }
+@media screen and (max-width: 720px) {
+  html, body {
+    height: 96%;
+  }
+}
 
 .controls {
   margin-top: 10px;
