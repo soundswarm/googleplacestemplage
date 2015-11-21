@@ -4,6 +4,6 @@
 ## from project directory run
 
 ```
-$ python -m SimplerHTTPServer
+$ python -m SimpleHTTPServer
 $ open index.html
 ```
